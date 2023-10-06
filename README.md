@@ -1,10 +1,10 @@
 # Getting Started with Create React App
 
-# git clone git@github.com:uipractice/Tailwind-React.git
-# CD Tailwind-React
-# npm 
-# npm start
-# react server start in http://localhost:3000
+$ git clone git@github.com:uipractice/Tailwind-React.git
+$ CD Tailwind-React
+$ npm i
+$ npm start
+$ The React server starts in development mode, and you can access it at http://localhost:3000.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
